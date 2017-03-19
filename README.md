@@ -1,7 +1,7 @@
 # Deploying projects with codeship
 ## Prerequisites
 * You must have [git](https://git-scm.com/downloads) and [xcode](https://developer.apple.com/xcode/) installed
-* You must have a [Ubuntu 16.04.02](https://github.com/spencerlee200/
+* You must have a [Ubuntu 16.04.02](https://github.com/spencerlee200/)
 movies/blob/master/setup.md) server set up
 
 ## 1. Setting up your local repo
